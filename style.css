@@ -180,6 +180,10 @@ footer h4{
         flex-direction: column;
     }
 
+    .three .card{
+        width: 100%;
+    }
+
     .links{
         display: flex;
         flex-direction: column;
